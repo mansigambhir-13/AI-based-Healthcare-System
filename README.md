@@ -1,7 +1,4 @@
-﻿Got it — thanks for the explanation!  
-You have a very cool multi-modal AI healthcare system. Here's a **customized README** you can use for your GitHub project:
 
----
 
 # 🏥 AI-Based Healthcare System
 
@@ -129,9 +126,8 @@ For major changes, please open an issue first to discuss what you would like to 
 ## 📬 Contact
 
 For queries, reach out to:  
-📧 your.email@example.com
+📧 mansigambhir019@gmail.com
 
 ---
 
-Would you also like me to create a cool **badge section** (like "Built with Python", "License: MIT", "Made with Love" badges) for the top? 🚀  
-It'll make the README look even more professional!
+
